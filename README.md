@@ -10,11 +10,11 @@ TLS 1.2 – lançado em 2008.
 TLS 1.3 – lançado em 2018
 
 execução do script:
-*python3  tls-sslScan.py*
+* python3  tls-sslScan.py *
 
 ![image](https://github.com/user-attachments/assets/382b678d-129f-440f-968c-ab53b0c29155)
 
-#Contribuições
+# Contribuições
 Colaboradores e solicitações de pull são bem-vindos!
 
 
